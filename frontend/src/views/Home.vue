@@ -7,7 +7,7 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2" style="color: rgb(255, 77, 0)">
-          Ben's Miligram
+          Ben's photobblog
         </b-navbar-item>
       </template>
     </b-navbar>
